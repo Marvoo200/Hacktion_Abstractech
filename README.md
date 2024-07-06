@@ -80,7 +80,7 @@ Somos un grupo de desarrolladores que conocen las empresas, no solo por las mate
 
 Somos su mejor opción porque sabemos que requiere la empresa y elaboramos un software que le queda a la mayoría de las empresas, como se ve en el artículo del banco mundial México no puede progresar por su falta de organización y los softwares que existen en el mercado piden cosas que las pequeñas y medianas empresas no requieren.
 
-Además de poder elaborar el software a la medida.
+Además de poder elaborar el software a la medida, agregar mayor seguridad al descentralizar la parte de la información, y tener la información sensible y de la empresa con terceros.
 
 
 
@@ -119,14 +119,17 @@ Dentro de este hacktion se logró implementar
 
 ## Developers
 
-*
+* Adrian Dali Hernandez Rueda
 * Rodolfo Domínguez Ríos
 * Angel Gabriel Antonio Bautista
 * Marvin Nahum Toribio Cortes 
 
 
 
-
+## Backend
+https://github.com/AdrianDali/NotionBack
+## Frontend
+https://github.com/rodolfodom/notionFront.git
 
 
 
